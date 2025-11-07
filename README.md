@@ -53,6 +53,10 @@ source .venv/bin/activate
 #Activate it on Windows
 .venv\Scripts\activate
 ```
+```bash
+#Activate it on Windows
+pip install -r requirements.txt
+```
 
 ### Running the App
 -  **Linux** users will need **Sudo** when running the app for access to the serial port:
