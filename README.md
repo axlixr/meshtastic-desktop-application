@@ -4,6 +4,9 @@ A Python-based GUI application for interacting with Meshtastic devices, built us
 
 ---
 
+<img src="img/preview1.png" alt="Meshtastic GUI Preview" width="800"/>
+
+---
 ## Current Status
 
 ![Project Status](https://img.shields.io/badge/status-in%20progress-yellow)
@@ -66,12 +69,6 @@ python main.py
 - Messaging (Primary Channel & Direct Messages)
 - Connected Nodes
 - Configure Long Name & Short Name
-
----
-
-## Preview
-
-<img src="img/preview1.png" alt="Meshtastic GUI Preview" width="800"/>
 
 ---
 
